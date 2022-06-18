@@ -8,11 +8,12 @@
   <a href="https://blog.litefen.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-c9c2ec"></a>&emsp;
   <a href="https://space.bilibili.com/293259567/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://blog.litefen.com/"><img src="https://visitor-badge.glitch.me/badge?page_id=litefen&right_color=blue"></a></div>
-
-
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 #  🙋 Hello
 
 <p>✍️&nbsp;&nbsp;大家好，我是小粉litefen，色影师一名</p>
+
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -41,11 +42,10 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=litefen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,c4b3e7,ff69b4&theme=graywhite" />
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litefen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,ff69b4,4dfcff&theme=graywhite" />
+  <img height="150px" width="390px" src="https://github-readme-stats.vercel.app/api?username=litefen&hide_border=false&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,c4b3e7,ff69b4&theme=graywhite" />
+  <img height="150px" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litefen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,ff69b4,4dfcff&theme=graywhite" />
 </div>
 <br>
-
 <!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
