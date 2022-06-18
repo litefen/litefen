@@ -1,16 +1,91 @@
-### Hi there 👋
 
-<!--
-**litefen/litefen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 敲代码的图片 -->
+<div align="center" ><img style="height:350px" src="https://pic.imgdb.cn/item/62adba99094754312916ec79.png"/></div>
+<br>
 
-Here are some ideas to get you started:
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="https://blog.litefen.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://space.bilibili.com/293259567/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://blog.litefen.com/"><img src="https://visitor-badge.glitch.me/badge?page_id=litefen&right_color=blue"></a></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#  🙋 Hello
+
+<p>✍️&nbsp;&nbsp;大家好，我是小粉litefen，色影师一名</p>
+
+<!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/litefen/fen-plugin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=fen-plugin&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/litefen/litefen">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=litefen&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
+
+&emsp;&emsp;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+🧰 常用的工具:
+
+&emsp;&emsp; 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
+
+# 🎨 小粉的笔记
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=litefen&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,c4b3e7,ff69b4&theme=graywhite" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litefen&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,ff69b4,4dfcff&theme=graywhite" />
+</div>
+<br>
+
+<!-- 最近博客和豆瓣动态 -->
+<table align="center">
+<tr>
+<td valign="top">    
+
+### 🤹‍♀️ <a href="https://blog.litefen.com/" target="_blank">Yunzai-bot</a>
+  
+<!-- START_SECTION:blog -->
+* <a href='https://blog.litefen.com/all/Yunzai-Bot.html' target='_blank'>Yunzai-Bot window搭建笔记</a> - 2022-4-22
+
+* <a href='https://blog.litefen.com/all/bbscookie.html' target='_blank'>米游社cookie获取方法合集</a> - 2022-4-22
+  
+* <a href='https://blog.litefen.com/all/yunzaihelp.html' target='_blank'>Yunzai-bot 雷神 帮助文档</a> - 2022-4-24
+  
+* <a href='https://blog.litefen.com/all/fen-plugin.html' target='_blank'>一个Yunzai-Bot的扩展插件</a> - 2022-6-13
+
+<!-- END_SECTION:blog -->
+  
+</td>
+    
+# ✏️ 小粉的笔记
+
+
+<td valign="top">
+  
+### 🌟 <a href="https://blog.litefen.com/" target="_blank">other</a>
+
+<!-- START_SECTION:douban -->
+
+* <a href='https://blog.litefen.com/all/011.html' target='_blank'>透明背景GIF表情包制作</a> - 2022-01-27
+
+* <a href='https://blog.litefen.com/all/ps2022.html' target='_blank'>修改Photoshop启动图-2022</a> - 2022-05-03
+
+* <a href='https://blog.litefen.com/all/pan.html' target='_blank'>基于Alist+onedrive搭建的个人网盘</a> - 2022-05-16
+<!-- END_SECTION:douban -->
+  
+</td> 
+</tr>
+</table>
+
+
+
+
