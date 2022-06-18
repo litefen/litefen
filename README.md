@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 
-# 🎨 小粉的Github
+# 🎨 小粉的GitHub
 <br>
 <!-- GitHub数据统计 -->
 <div align="center">
