@@ -1,6 +1,8 @@
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img style="height:350px" src="https://pic.imgdb.cn/item/62adba99094754312916ec79.png"/></div>
+<div align="center" >
+<a href="https://blog.litefen.com/all/githubhome.html" target="_blank">
+<img style="height:350px" src="https://pic.imgdb.cn/item/62adba99094754312916ec79.png"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
