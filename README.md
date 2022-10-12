@@ -7,9 +7,10 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.litefen.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-c9c2ec"></a>&emsp;
+  <a href="https://blog.litefen.com/"><img src="https://img.shields.io/badge/website-博客-c9c2ec"></a>&emsp;
   <a href="https://space.bilibili.com/293259567/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://blog.litefen.com/"><img src="https://visitor-badge.glitch.me/badge?page_id=litefen&right_color=blue"></a></div>
+  <a href="https://github.com/litefen"><img src="https://img.shields.io/badge/Github-litefen-23292f"></a>&emsp;
+</div>
 
 # ✍️ 自我介绍
 
@@ -18,8 +19,8 @@
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/litefen/fen-plugin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=fen-plugin&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
+<a href="https://github.com/litefen/fenplugin-v3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=fenplugin-v3&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
 <a href="https://github.com/litefen/litefen">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=litefen&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
 </div>
@@ -27,13 +28,15 @@
 
 ## 🧰 常用的工具:
 &emsp;&emsp;
+![哔哩哔哩](https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-pink?style=flat-square&logo=bilibili)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+
 
 
 # 🎨 小粉的GitHub
