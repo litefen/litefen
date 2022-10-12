@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://blog.litefen.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-c9c2ec"></a>&emsp;
   <a href="https://space.bilibili.com/293259567/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://github.com/litefen"><img src="https://img.shields.io/badge/Github-litefen-23292f"></a>&emsp;
 </div>
 
 # ✍️ 自我介绍
