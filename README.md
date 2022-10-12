@@ -26,6 +26,7 @@
 
 ## 🧰 常用的工具:
 &emsp;&emsp;
+![哔哩哔哩](https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-pink?style=flat-square&logo=bilibili)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
