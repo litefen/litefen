@@ -19,8 +19,6 @@
 <div align="center">
 <a href="https://github.com/litefen/fenplugin-v3">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=fenplugin-v3&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
-<a href="https://github.com/litefen/fen-plugin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=fen-plugin&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
 <a href="https://github.com/litefen/litefen">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=litefen&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
 </div>
