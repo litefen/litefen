@@ -20,7 +20,7 @@
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/litefen/fenplugin-v3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=fenplugin-v3&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
+  <img src="https://github.com/litefen/fenplugin-v3/raw/main/resources/readme/10004.png" /></a>
 <a href="https://github.com/litefen/litefen">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=litefen&repo=litefen&theme=light&bg_color=c9c2ec&hide_border=true" /></a>
 </div>
